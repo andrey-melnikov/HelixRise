@@ -12,4 +12,4 @@ alt="" width="150" border="10" /></a>
 Try to jump as high as you can.
 <br ><br >
 **Download game:**<br >
-[game.apk](game.apk)
+[game.apk](Game.apk)
